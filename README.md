@@ -1,7 +1,5 @@
-# odin-recepies
+# odin-recipes
 
-This is a recipe website project to put what I've learned so far in practice.
-
-I am practicing git workflow (stage, commit, push) and HTML basics (working with texts, unordered & ordered list, absolute & relative links, display images, etc.)
+This is a recipe website project to put what I've learned so far—git workflow and HTML basics (texts, list, links, display images, etc.)—in practice.
 
 The recipes are not my own. Sources are on each recipe page. 
